@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kalviumcommunity/S_85_Expense_tracker.git"
+    "url": "git+https://github.com/ashu1357github/Cashify.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kalviumcommunity/S_85_Expense_tracker/issues"
+    "url": "https://github.com/ashu1357github/Cashify/issues"
   },
-  "homepage": "https://github.com/kalviumcommunity/S_85_Expense_tracker#readme",
+  "homepage": "https://github.com/ashu1357github/Cashify#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.2",
